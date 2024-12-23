@@ -11,7 +11,7 @@
 Passionate Developer | Software Engineering Enthusiast | Building the Future
 
 ---
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sukumar0508&label=Profile%20views&color=0e75b6&style=flat" alt="sukumar0508" /> </p>
 ### 💻 About Me:
 - 🔭 I’m currently working on **Histopath-DL-OC: Deep Learning for Oral Cancer Prediction from Histopathology Data**  
 - 🌱 I’m learning **React, Blockchain, and Machine Learning Frameworks**  
