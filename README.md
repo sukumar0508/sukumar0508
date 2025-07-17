@@ -13,9 +13,9 @@ Passionate Developer | Software Engineering Enthusiast | Building the Future
 ---
 
 ### 💻 About Me:
-- 🔭 I’m currently working on **Histopath-DL-OC: Deep Learning for Oral Cancer Prediction from Histopathology Data**  
-- 🌱 I’m learning **React, Blockchain, and Machine Learning Frameworks**  
-- 💬 Ask me about **React, Node.js, Python, Federated Learning, Differential Privacy, and Blockchain Development**  
+- 🔭 I’m currently looking for an opportunity where i can apply my skills in real world challenges.
+- 🌱 I’m learning **React, Blockchain, and Machine Learning Frameworks and data analytics and cloud technologies.**  
+- 💬 Ask me about **Data analysis , SQL, R, Python, Power bi, Etl tools, React, Node.js, Python, Federated Learning, Differential Privacy, and Blockchain Development**  
 - 📫 Reach me at: [koyyagurasuku@gmail.com](mailto:koyyagurasuku@gmail.com)  
 
 ---
@@ -76,7 +76,7 @@ Passionate Developer | Software Engineering Enthusiast | Building the Future
 ---
 
 ### ⚡ Fun Fact:
-**I think JavaScript frameworks update faster than my coffee cools down. 😉**
+**Programmers prefer dark mode because the light attracts bugs—literally and figuratively. 😉**
 
 
 
